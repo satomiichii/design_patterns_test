@@ -1,7 +1,7 @@
 # About This Repositpry
 
 This is the playground for testing code from the book, Head First Design Patterns.
-The code are all written by Java, so I'm expection to grasp some Java concept here.
+The code are all written by Java, so I'm also expecting to grasp some Java concept while learning design patterns.
 
 ## Head First Design Patterns
 
